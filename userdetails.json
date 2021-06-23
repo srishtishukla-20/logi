@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "Srishti Suman",
+            "Password": "SRi@123",
+            "Profile": {
+                "description": "i like travelling",
+                "DOB": "20/01",
+                "Sex": "female",
+                "hobbies": "painting"
+            }
+        }
+    ]
+}
